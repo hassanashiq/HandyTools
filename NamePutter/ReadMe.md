@@ -1,4 +1,4 @@
-# Image Name Adder
+# Name adder to Bing Image
 
 This Python program adds a custom text "Hassan Ashiq" and "my YouTube channel link" to the bottom left corner of all square images in a selected directory. It utilizes the Pillow library for image processing and provides a simple GUI using tkinter for selecting the directory.
 
